@@ -1,6 +1,6 @@
 # Wax Loop
 
-[WebUI Version: 0.10.5](https://github.com/StoicDreams/WebUI)
+[WebUI Version: 0.10.6](https://github.com/StoicDreams/WebUI)
 
 Website home for Wax Loop browser app.
 
