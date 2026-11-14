@@ -1,19 +1,19 @@
 [
   {
     "name": "LocalHost",
-    "icon": "emoji-desktop_computer",
+    "icon": "desktop",
     "url": "/ecd17df3-b5ff-486b-93ea-32c04f39a214",
     "children": null
   },
   {
     "name": "Tests",
-    "icon": "emoji-balance_scale",
+    "icon": "test",
     "url": "/6f53a9fd-4da2-4f1e-aa63-881151ce41ca",
     "children": null
   },
   {
     "name": "Release",
-    "icon": "emoji-package",
+    "icon": "rocket",
     "url": "/6ff8d53b-e1d4-4e3d-b395-60f1c1fb4177",
     "children": null
   }
