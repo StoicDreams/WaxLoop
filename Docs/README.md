@@ -1,6 +1,6 @@
 # Wax Loop
 
-[Version: 0.1.24](https://github.com/StoicDreams/WaxLoop)
+[Version: 0.1.25](https://github.com/StoicDreams/WaxLoop)
 
 [WebUI](https://github.com/StoicDreams/WebUI)
 
